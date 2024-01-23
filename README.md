@@ -14,4 +14,4 @@
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&amp;logo=Mysql&amp;logoColor=white"></a>
 <a href="https://github.com/gardengo"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&amp;logo=Github&amp;logoColor=white"></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardengo&layout=compact)](https://github.com/gardengo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardengo&langs_count=10&layout=compact)](https://github.com/gardengo)
