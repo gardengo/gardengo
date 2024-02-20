@@ -6,6 +6,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgardengo&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![garden's GitHub stats](https://github-readme-stats.vercel.app/api?username=gardengo&show_icons=true&theme=cobalt)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddnjs0306)](https://solved.ac/wjddnjs0306/)
 
 <br/>
 
@@ -42,6 +43,10 @@
       <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
       <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
     </p>
+    <p>
+      <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=WebRTC&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenVidu-FFDA18?style=for-the-badge&logo=OpenVidu&logoColor=white"/>
+    </p>
     <p >    
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
@@ -63,10 +68,5 @@
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardengo&langs_count=10&layout=compact)](https://github.com/gardengo)
   </div>
-
-  <br/>
-
-  ## Stats 🔍
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddnjs0306)](https://solved.ac/wjddnjs0306/)
 
 </div>
