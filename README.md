@@ -5,9 +5,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgardengo&count_bg=%23FFB6F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![garden's GitHub stats](https://github-readme-stats.vercel.app/api?username=gardengo&show_icons=true&theme=cobalt)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddnjs0306)](https://solved.ac/wjddnjs0306/)
-
 <br/>
 
 <div align="center">
@@ -65,8 +62,9 @@
       <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"/>
     </p>
     <br/>
-    
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardengo&langs_count=10&layout=compact)](https://github.com/gardengo)
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wjddnjs0306" width=38% /> 
+      <img src="https://github-readme-stats.vercel.app/api?username=gardengo&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=gardengo&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
   </div>
-
 </div>
+
